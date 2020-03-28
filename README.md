@@ -1,0 +1,2 @@
+# Bookmark_Text_In_Dictionary
+一个没有任何意义极其无聊的用automator做出来的quick action.
