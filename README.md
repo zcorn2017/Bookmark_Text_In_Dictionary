@@ -12,6 +12,6 @@ A meaningless and simple Quick Action made by Automator, which can help you book
 ## Usage
 Just drag-click the words and sentences and push the shortcut you set before.
 
-The words and sentences are stored in your Desktop.
+The words and sentences are stored in WordsListInDic.txt in your Desktop.
 
 ![image](https://github.com/zcorn2017/Bookmark_Text_In_Dictionary/blob/master/Screenshot1.png)
